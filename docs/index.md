@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## BACHLEOR IN SOFTWARE ENGINEERING COMPLETE NOTES AND REFEREENCE
 
 You can use the [editor on GitHub](https://github.com/narayandhakal09/GCES-Complete-Notes-And-Reference/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
